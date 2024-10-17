@@ -1,4 +1,4 @@
 # demoProject
 This is my first git project
-Author - sakir hossain
+Author - sakir hossain(cse)
 <br>
